@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # Demo https://aquamarine-queijadas-ca87dc.netlify.app
-Hatalar : Berabere kalındığında sayfayı yenilemek gerekiyor, X veya O kazandıktan sonra hareketlere devam edilebiliyor ve rakip kazanabiliyor. (X kazanırken O oynamaya devam edip kazanabiliyor)\
+## Hatalar : Berabere kalındığında sayfayı yenilemek gerekiyor, X veya O kazandıktan sonra hareketlere devam edilebiliyor ve rakip kazanabiliyor. (X kazanırken O oynamaya devam edip kazanabiliyor)\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
